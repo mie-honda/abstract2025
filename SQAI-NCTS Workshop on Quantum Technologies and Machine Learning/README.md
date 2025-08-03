@@ -13,6 +13,6 @@ Each figure was generated with a different set of parameters, as detailed in the
 
 | Filename | Number of Patterns (P) | Number of Weights (W) | Seed |
 | :--- | :---: | :---: | :---: |
-| `P7W3.png` | 7 | 3 | 20 |
+| `P7W3.png` | 7 | 3 | 10 |
 | `P10W3.png`| 10 | 3 | 30 |
 
